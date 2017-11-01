@@ -1,0 +1,185 @@
+C:\Users\Sid\Desktop\VS Project\DEMO-GeekQuiz-Web-API-backend-master\source\end\GeekQuiz\bin\GeekQuiz.dll.config
+C:\Users\Sid\Desktop\VS Project\DEMO-GeekQuiz-Web-API-backend-master\source\end\GeekQuiz\bin\GeekQuiz.dll
+C:\Users\Sid\Desktop\VS Project\DEMO-GeekQuiz-Web-API-backend-master\source\end\GeekQuiz\bin\GeekQuiz.pdb
+C:\Users\Sid\Desktop\VS Project\DEMO-GeekQuiz-Web-API-backend-master\source\end\GeekQuiz\bin\Antlr3.Runtime.dll
+C:\Users\Sid\Desktop\VS Project\DEMO-GeekQuiz-Web-API-backend-master\source\end\GeekQuiz\bin\EntityFramework.dll
+C:\Users\Sid\Desktop\VS Project\DEMO-GeekQuiz-Web-API-backend-master\source\end\GeekQuiz\bin\EntityFramework.SqlServer.dll
+C:\Users\Sid\Desktop\VS Project\DEMO-GeekQuiz-Web-API-backend-master\source\end\GeekQuiz\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Sid\Desktop\VS Project\DEMO-GeekQuiz-Web-API-backend-master\source\end\GeekQuiz\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Sid\Desktop\VS Project\DEMO-GeekQuiz-Web-API-backend-master\source\end\GeekQuiz\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Sid\Desktop\VS Project\DEMO-GeekQuiz-Web-API-backend-master\source\end\GeekQuiz\bin\Microsoft.Owin.dll
+C:\Users\Sid\Desktop\VS Project\DEMO-GeekQuiz-Web-API-backend-master\source\end\GeekQuiz\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Sid\Desktop\VS Project\DEMO-GeekQuiz-Web-API-backend-master\source\end\GeekQuiz\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Sid\Desktop\VS Project\DEMO-GeekQuiz-Web-API-backend-master\source\end\GeekQuiz\bin\Microsoft.Owin.Security.dll
+C:\Users\Sid\Desktop\VS Project\DEMO-GeekQuiz-Web-API-backend-master\source\end\GeekQuiz\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Sid\Desktop\VS Project\DEMO-GeekQuiz-Web-API-backend-master\source\end\GeekQuiz\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Sid\Desktop\VS Project\DEMO-GeekQuiz-Web-API-backend-master\source\end\GeekQuiz\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Sid\Desktop\VS Project\DEMO-GeekQuiz-Web-API-backend-master\source\end\GeekQuiz\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Sid\Desktop\VS Project\DEMO-GeekQuiz-Web-API-backend-master\source\end\GeekQuiz\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Sid\Desktop\VS Project\DEMO-GeekQuiz-Web-API-backend-master\source\end\GeekQuiz\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Sid\Desktop\VS Project\DEMO-GeekQuiz-Web-API-backend-master\source\end\GeekQuiz\bin\Newtonsoft.Json.dll
+C:\Users\Sid\Desktop\VS Project\DEMO-GeekQuiz-Web-API-backend-master\source\end\GeekQuiz\bin\Owin.dll
+C:\Users\Sid\Desktop\VS Project\DEMO-GeekQuiz-Web-API-backend-master\source\end\GeekQuiz\bin\System.Net.Http.Formatting.dll
+C:\Users\Sid\Desktop\VS Project\DEMO-GeekQuiz-Web-API-backend-master\source\end\GeekQuiz\bin\System.Web.Helpers.dll
+C:\Users\Sid\Desktop\VS Project\DEMO-GeekQuiz-Web-API-backend-master\source\end\GeekQuiz\bin\System.Web.Http.dll
+C:\Users\Sid\Desktop\VS Project\DEMO-GeekQuiz-Web-API-backend-master\source\end\GeekQuiz\bin\System.Web.Http.WebHost.dll
+C:\Users\Sid\Desktop\VS Project\DEMO-GeekQuiz-Web-API-backend-master\source\end\GeekQuiz\bin\System.Web.Mvc.dll
+C:\Users\Sid\Desktop\VS Project\DEMO-GeekQuiz-Web-API-backend-master\source\end\GeekQuiz\bin\System.Web.Optimization.dll
+C:\Users\Sid\Desktop\VS Project\DEMO-GeekQuiz-Web-API-backend-master\source\end\GeekQuiz\bin\System.Web.Razor.dll
+C:\Users\Sid\Desktop\VS Project\DEMO-GeekQuiz-Web-API-backend-master\source\end\GeekQuiz\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Sid\Desktop\VS Project\DEMO-GeekQuiz-Web-API-backend-master\source\end\GeekQuiz\bin\System.Web.WebPages.dll
+C:\Users\Sid\Desktop\VS Project\DEMO-GeekQuiz-Web-API-backend-master\source\end\GeekQuiz\bin\System.Web.WebPages.Razor.dll
+C:\Users\Sid\Desktop\VS Project\DEMO-GeekQuiz-Web-API-backend-master\source\end\GeekQuiz\bin\WebGrease.dll
+C:\Users\Sid\Desktop\VS Project\DEMO-GeekQuiz-Web-API-backend-master\source\end\GeekQuiz\bin\System.Web.Helpers.xml
+C:\Users\Sid\Desktop\VS Project\DEMO-GeekQuiz-Web-API-backend-master\source\end\GeekQuiz\bin\System.Web.Mvc.xml
+C:\Users\Sid\Desktop\VS Project\DEMO-GeekQuiz-Web-API-backend-master\source\end\GeekQuiz\bin\System.Web.Optimization.xml
+C:\Users\Sid\Desktop\VS Project\DEMO-GeekQuiz-Web-API-backend-master\source\end\GeekQuiz\bin\System.Web.Razor.xml
+C:\Users\Sid\Desktop\VS Project\DEMO-GeekQuiz-Web-API-backend-master\source\end\GeekQuiz\bin\System.Web.WebPages.xml
+C:\Users\Sid\Desktop\VS Project\DEMO-GeekQuiz-Web-API-backend-master\source\end\GeekQuiz\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Sid\Desktop\VS Project\DEMO-GeekQuiz-Web-API-backend-master\source\end\GeekQuiz\bin\System.Web.WebPages.Razor.xml
+C:\Users\Sid\Desktop\VS Project\DEMO-GeekQuiz-Web-API-backend-master\source\end\GeekQuiz\bin\Newtonsoft.Json.xml
+C:\Users\Sid\Desktop\VS Project\DEMO-GeekQuiz-Web-API-backend-master\source\end\GeekQuiz\bin\Antlr3.Runtime.pdb
+C:\Users\Sid\Desktop\VS Project\DEMO-GeekQuiz-Web-API-backend-master\source\end\GeekQuiz\bin\System.Net.Http.Formatting.xml
+C:\Users\Sid\Desktop\VS Project\DEMO-GeekQuiz-Web-API-backend-master\source\end\GeekQuiz\bin\System.Web.Http.xml
+C:\Users\Sid\Desktop\VS Project\DEMO-GeekQuiz-Web-API-backend-master\source\end\GeekQuiz\bin\System.Web.Http.WebHost.xml
+C:\Users\Sid\Desktop\VS Project\DEMO-GeekQuiz-Web-API-backend-master\source\end\GeekQuiz\bin\EntityFramework.xml
+C:\Users\Sid\Desktop\VS Project\DEMO-GeekQuiz-Web-API-backend-master\source\end\GeekQuiz\bin\EntityFramework.SqlServer.xml
+C:\Users\Sid\Desktop\VS Project\DEMO-GeekQuiz-Web-API-backend-master\source\end\GeekQuiz\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Sid\Desktop\VS Project\DEMO-GeekQuiz-Web-API-backend-master\source\end\GeekQuiz\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Sid\Desktop\VS Project\DEMO-GeekQuiz-Web-API-backend-master\source\end\GeekQuiz\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Sid\Desktop\VS Project\DEMO-GeekQuiz-Web-API-backend-master\source\end\GeekQuiz\bin\Microsoft.Owin.xml
+C:\Users\Sid\Desktop\VS Project\DEMO-GeekQuiz-Web-API-backend-master\source\end\GeekQuiz\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Sid\Desktop\VS Project\DEMO-GeekQuiz-Web-API-backend-master\source\end\GeekQuiz\bin\Microsoft.Owin.Security.xml
+C:\Users\Sid\Desktop\VS Project\DEMO-GeekQuiz-Web-API-backend-master\source\end\GeekQuiz\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Sid\Desktop\VS Project\DEMO-GeekQuiz-Web-API-backend-master\source\end\GeekQuiz\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Sid\Desktop\VS Project\DEMO-GeekQuiz-Web-API-backend-master\source\end\GeekQuiz\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Sid\Desktop\VS Project\DEMO-GeekQuiz-Web-API-backend-master\source\end\GeekQuiz\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Sid\Desktop\VS Project\DEMO-GeekQuiz-Web-API-backend-master\source\end\GeekQuiz\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Sid\Desktop\VS Project\DEMO-GeekQuiz-Web-API-backend-master\source\end\GeekQuiz\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Sid\Desktop\VS Project\DEMO-GeekQuiz-Web-API-backend-master\source\end\GeekQuiz\obj\Debug\GeekQuiz.csprojResolveAssemblyReference.cache
+C:\Users\Sid\Desktop\VS Project\DEMO-GeekQuiz-Web-API-backend-master\source\end\GeekQuiz\obj\Debug\GeekQuiz.csproj.CoreCompileInputs.cache
+C:\Users\Sid\Desktop\VS Project\DEMO-GeekQuiz-Web-API-backend-master\source\end\GeekQuiz\obj\Debug\GeekQuiz.dll
+C:\Users\Sid\Desktop\VS Project\DEMO-GeekQuiz-Web-API-backend-master\source\end\GeekQuiz\obj\Debug\GeekQuiz.pdb
+C:\Users\Sid\Desktop\VS Project\DEMO-GeekQuiz-Web-API-backend-master\source\OVI Quiz\GeekQuiz\bin\GeekQuiz.dll.config
+C:\Users\Sid\Desktop\VS Project\DEMO-GeekQuiz-Web-API-backend-master\source\OVI Quiz\GeekQuiz\bin\GeekQuiz.dll
+C:\Users\Sid\Desktop\VS Project\DEMO-GeekQuiz-Web-API-backend-master\source\OVI Quiz\GeekQuiz\bin\GeekQuiz.pdb
+C:\Users\Sid\Desktop\VS Project\DEMO-GeekQuiz-Web-API-backend-master\source\OVI Quiz\GeekQuiz\bin\Antlr3.Runtime.dll
+C:\Users\Sid\Desktop\VS Project\DEMO-GeekQuiz-Web-API-backend-master\source\OVI Quiz\GeekQuiz\bin\EntityFramework.dll
+C:\Users\Sid\Desktop\VS Project\DEMO-GeekQuiz-Web-API-backend-master\source\OVI Quiz\GeekQuiz\bin\EntityFramework.SqlServer.dll
+C:\Users\Sid\Desktop\VS Project\DEMO-GeekQuiz-Web-API-backend-master\source\OVI Quiz\GeekQuiz\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Sid\Desktop\VS Project\DEMO-GeekQuiz-Web-API-backend-master\source\OVI Quiz\GeekQuiz\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Sid\Desktop\VS Project\DEMO-GeekQuiz-Web-API-backend-master\source\OVI Quiz\GeekQuiz\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Sid\Desktop\VS Project\DEMO-GeekQuiz-Web-API-backend-master\source\OVI Quiz\GeekQuiz\bin\Microsoft.Owin.dll
+C:\Users\Sid\Desktop\VS Project\DEMO-GeekQuiz-Web-API-backend-master\source\OVI Quiz\GeekQuiz\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Sid\Desktop\VS Project\DEMO-GeekQuiz-Web-API-backend-master\source\OVI Quiz\GeekQuiz\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Sid\Desktop\VS Project\DEMO-GeekQuiz-Web-API-backend-master\source\OVI Quiz\GeekQuiz\bin\Microsoft.Owin.Security.dll
+C:\Users\Sid\Desktop\VS Project\DEMO-GeekQuiz-Web-API-backend-master\source\OVI Quiz\GeekQuiz\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Sid\Desktop\VS Project\DEMO-GeekQuiz-Web-API-backend-master\source\OVI Quiz\GeekQuiz\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Sid\Desktop\VS Project\DEMO-GeekQuiz-Web-API-backend-master\source\OVI Quiz\GeekQuiz\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Sid\Desktop\VS Project\DEMO-GeekQuiz-Web-API-backend-master\source\OVI Quiz\GeekQuiz\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Sid\Desktop\VS Project\DEMO-GeekQuiz-Web-API-backend-master\source\OVI Quiz\GeekQuiz\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Sid\Desktop\VS Project\DEMO-GeekQuiz-Web-API-backend-master\source\OVI Quiz\GeekQuiz\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Sid\Desktop\VS Project\DEMO-GeekQuiz-Web-API-backend-master\source\OVI Quiz\GeekQuiz\bin\Newtonsoft.Json.dll
+C:\Users\Sid\Desktop\VS Project\DEMO-GeekQuiz-Web-API-backend-master\source\OVI Quiz\GeekQuiz\bin\Owin.dll
+C:\Users\Sid\Desktop\VS Project\DEMO-GeekQuiz-Web-API-backend-master\source\OVI Quiz\GeekQuiz\bin\System.Net.Http.Formatting.dll
+C:\Users\Sid\Desktop\VS Project\DEMO-GeekQuiz-Web-API-backend-master\source\OVI Quiz\GeekQuiz\bin\System.Web.Helpers.dll
+C:\Users\Sid\Desktop\VS Project\DEMO-GeekQuiz-Web-API-backend-master\source\OVI Quiz\GeekQuiz\bin\System.Web.Http.dll
+C:\Users\Sid\Desktop\VS Project\DEMO-GeekQuiz-Web-API-backend-master\source\OVI Quiz\GeekQuiz\bin\System.Web.Http.WebHost.dll
+C:\Users\Sid\Desktop\VS Project\DEMO-GeekQuiz-Web-API-backend-master\source\OVI Quiz\GeekQuiz\bin\System.Web.Mvc.dll
+C:\Users\Sid\Desktop\VS Project\DEMO-GeekQuiz-Web-API-backend-master\source\OVI Quiz\GeekQuiz\bin\System.Web.Optimization.dll
+C:\Users\Sid\Desktop\VS Project\DEMO-GeekQuiz-Web-API-backend-master\source\OVI Quiz\GeekQuiz\bin\System.Web.Razor.dll
+C:\Users\Sid\Desktop\VS Project\DEMO-GeekQuiz-Web-API-backend-master\source\OVI Quiz\GeekQuiz\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Sid\Desktop\VS Project\DEMO-GeekQuiz-Web-API-backend-master\source\OVI Quiz\GeekQuiz\bin\System.Web.WebPages.dll
+C:\Users\Sid\Desktop\VS Project\DEMO-GeekQuiz-Web-API-backend-master\source\OVI Quiz\GeekQuiz\bin\System.Web.WebPages.Razor.dll
+C:\Users\Sid\Desktop\VS Project\DEMO-GeekQuiz-Web-API-backend-master\source\OVI Quiz\GeekQuiz\bin\WebGrease.dll
+C:\Users\Sid\Desktop\VS Project\DEMO-GeekQuiz-Web-API-backend-master\source\OVI Quiz\GeekQuiz\bin\System.Web.Helpers.xml
+C:\Users\Sid\Desktop\VS Project\DEMO-GeekQuiz-Web-API-backend-master\source\OVI Quiz\GeekQuiz\bin\System.Web.Mvc.xml
+C:\Users\Sid\Desktop\VS Project\DEMO-GeekQuiz-Web-API-backend-master\source\OVI Quiz\GeekQuiz\bin\System.Web.Optimization.xml
+C:\Users\Sid\Desktop\VS Project\DEMO-GeekQuiz-Web-API-backend-master\source\OVI Quiz\GeekQuiz\bin\System.Web.Razor.xml
+C:\Users\Sid\Desktop\VS Project\DEMO-GeekQuiz-Web-API-backend-master\source\OVI Quiz\GeekQuiz\bin\System.Web.WebPages.xml
+C:\Users\Sid\Desktop\VS Project\DEMO-GeekQuiz-Web-API-backend-master\source\OVI Quiz\GeekQuiz\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Sid\Desktop\VS Project\DEMO-GeekQuiz-Web-API-backend-master\source\OVI Quiz\GeekQuiz\bin\System.Web.WebPages.Razor.xml
+C:\Users\Sid\Desktop\VS Project\DEMO-GeekQuiz-Web-API-backend-master\source\OVI Quiz\GeekQuiz\bin\Newtonsoft.Json.xml
+C:\Users\Sid\Desktop\VS Project\DEMO-GeekQuiz-Web-API-backend-master\source\OVI Quiz\GeekQuiz\bin\Antlr3.Runtime.pdb
+C:\Users\Sid\Desktop\VS Project\DEMO-GeekQuiz-Web-API-backend-master\source\OVI Quiz\GeekQuiz\bin\System.Net.Http.Formatting.xml
+C:\Users\Sid\Desktop\VS Project\DEMO-GeekQuiz-Web-API-backend-master\source\OVI Quiz\GeekQuiz\bin\System.Web.Http.xml
+C:\Users\Sid\Desktop\VS Project\DEMO-GeekQuiz-Web-API-backend-master\source\OVI Quiz\GeekQuiz\bin\System.Web.Http.WebHost.xml
+C:\Users\Sid\Desktop\VS Project\DEMO-GeekQuiz-Web-API-backend-master\source\OVI Quiz\GeekQuiz\bin\EntityFramework.xml
+C:\Users\Sid\Desktop\VS Project\DEMO-GeekQuiz-Web-API-backend-master\source\OVI Quiz\GeekQuiz\bin\EntityFramework.SqlServer.xml
+C:\Users\Sid\Desktop\VS Project\DEMO-GeekQuiz-Web-API-backend-master\source\OVI Quiz\GeekQuiz\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Sid\Desktop\VS Project\DEMO-GeekQuiz-Web-API-backend-master\source\OVI Quiz\GeekQuiz\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Sid\Desktop\VS Project\DEMO-GeekQuiz-Web-API-backend-master\source\OVI Quiz\GeekQuiz\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Sid\Desktop\VS Project\DEMO-GeekQuiz-Web-API-backend-master\source\OVI Quiz\GeekQuiz\bin\Microsoft.Owin.xml
+C:\Users\Sid\Desktop\VS Project\DEMO-GeekQuiz-Web-API-backend-master\source\OVI Quiz\GeekQuiz\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Sid\Desktop\VS Project\DEMO-GeekQuiz-Web-API-backend-master\source\OVI Quiz\GeekQuiz\bin\Microsoft.Owin.Security.xml
+C:\Users\Sid\Desktop\VS Project\DEMO-GeekQuiz-Web-API-backend-master\source\OVI Quiz\GeekQuiz\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Sid\Desktop\VS Project\DEMO-GeekQuiz-Web-API-backend-master\source\OVI Quiz\GeekQuiz\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Sid\Desktop\VS Project\DEMO-GeekQuiz-Web-API-backend-master\source\OVI Quiz\GeekQuiz\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Sid\Desktop\VS Project\DEMO-GeekQuiz-Web-API-backend-master\source\OVI Quiz\GeekQuiz\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Sid\Desktop\VS Project\DEMO-GeekQuiz-Web-API-backend-master\source\OVI Quiz\GeekQuiz\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Sid\Desktop\VS Project\DEMO-GeekQuiz-Web-API-backend-master\source\OVI Quiz\GeekQuiz\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Sid\Desktop\VS Project\DEMO-GeekQuiz-Web-API-backend-master\source\OVI Quiz\GeekQuiz\obj\Debug\GeekQuiz.csprojResolveAssemblyReference.cache
+C:\Users\Sid\Desktop\VS Project\DEMO-GeekQuiz-Web-API-backend-master\source\OVI Quiz\GeekQuiz\obj\Debug\GeekQuiz.csproj.CoreCompileInputs.cache
+C:\Users\Sid\Desktop\VS Project\DEMO-GeekQuiz-Web-API-backend-master\source\OVI Quiz\GeekQuiz\obj\Debug\GeekQuiz.dll
+C:\Users\Sid\Desktop\VS Project\DEMO-GeekQuiz-Web-API-backend-master\source\OVI Quiz\GeekQuiz\obj\Debug\GeekQuiz.pdb
+C:\visualstudio\OVI Quiz\GeekQuiz\bin\GeekQuiz.dll.config
+C:\visualstudio\OVI Quiz\GeekQuiz\bin\GeekQuiz.dll
+C:\visualstudio\OVI Quiz\GeekQuiz\bin\GeekQuiz.pdb
+C:\visualstudio\OVI Quiz\GeekQuiz\bin\Antlr3.Runtime.dll
+C:\visualstudio\OVI Quiz\GeekQuiz\bin\EntityFramework.dll
+C:\visualstudio\OVI Quiz\GeekQuiz\bin\EntityFramework.SqlServer.dll
+C:\visualstudio\OVI Quiz\GeekQuiz\bin\Microsoft.AspNet.Identity.Core.dll
+C:\visualstudio\OVI Quiz\GeekQuiz\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\visualstudio\OVI Quiz\GeekQuiz\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\visualstudio\OVI Quiz\GeekQuiz\bin\Microsoft.Owin.dll
+C:\visualstudio\OVI Quiz\GeekQuiz\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\visualstudio\OVI Quiz\GeekQuiz\bin\Microsoft.Owin.Security.Cookies.dll
+C:\visualstudio\OVI Quiz\GeekQuiz\bin\Microsoft.Owin.Security.dll
+C:\visualstudio\OVI Quiz\GeekQuiz\bin\Microsoft.Owin.Security.Facebook.dll
+C:\visualstudio\OVI Quiz\GeekQuiz\bin\Microsoft.Owin.Security.Google.dll
+C:\visualstudio\OVI Quiz\GeekQuiz\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\visualstudio\OVI Quiz\GeekQuiz\bin\Microsoft.Owin.Security.OAuth.dll
+C:\visualstudio\OVI Quiz\GeekQuiz\bin\Microsoft.Owin.Security.Twitter.dll
+C:\visualstudio\OVI Quiz\GeekQuiz\bin\Microsoft.Web.Infrastructure.dll
+C:\visualstudio\OVI Quiz\GeekQuiz\bin\Newtonsoft.Json.dll
+C:\visualstudio\OVI Quiz\GeekQuiz\bin\Owin.dll
+C:\visualstudio\OVI Quiz\GeekQuiz\bin\System.Net.Http.Formatting.dll
+C:\visualstudio\OVI Quiz\GeekQuiz\bin\System.Web.Helpers.dll
+C:\visualstudio\OVI Quiz\GeekQuiz\bin\System.Web.Http.dll
+C:\visualstudio\OVI Quiz\GeekQuiz\bin\System.Web.Http.WebHost.dll
+C:\visualstudio\OVI Quiz\GeekQuiz\bin\System.Web.Mvc.dll
+C:\visualstudio\OVI Quiz\GeekQuiz\bin\System.Web.Optimization.dll
+C:\visualstudio\OVI Quiz\GeekQuiz\bin\System.Web.Razor.dll
+C:\visualstudio\OVI Quiz\GeekQuiz\bin\System.Web.WebPages.Deployment.dll
+C:\visualstudio\OVI Quiz\GeekQuiz\bin\System.Web.WebPages.dll
+C:\visualstudio\OVI Quiz\GeekQuiz\bin\System.Web.WebPages.Razor.dll
+C:\visualstudio\OVI Quiz\GeekQuiz\bin\WebGrease.dll
+C:\visualstudio\OVI Quiz\GeekQuiz\bin\System.Web.Helpers.xml
+C:\visualstudio\OVI Quiz\GeekQuiz\bin\System.Web.Mvc.xml
+C:\visualstudio\OVI Quiz\GeekQuiz\bin\System.Web.Optimization.xml
+C:\visualstudio\OVI Quiz\GeekQuiz\bin\System.Web.Razor.xml
+C:\visualstudio\OVI Quiz\GeekQuiz\bin\System.Web.WebPages.xml
+C:\visualstudio\OVI Quiz\GeekQuiz\bin\System.Web.WebPages.Deployment.xml
+C:\visualstudio\OVI Quiz\GeekQuiz\bin\System.Web.WebPages.Razor.xml
+C:\visualstudio\OVI Quiz\GeekQuiz\bin\Antlr3.Runtime.pdb
+C:\visualstudio\OVI Quiz\GeekQuiz\bin\System.Net.Http.Formatting.xml
+C:\visualstudio\OVI Quiz\GeekQuiz\bin\System.Web.Http.xml
+C:\visualstudio\OVI Quiz\GeekQuiz\bin\System.Web.Http.WebHost.xml
+C:\visualstudio\OVI Quiz\GeekQuiz\bin\EntityFramework.xml
+C:\visualstudio\OVI Quiz\GeekQuiz\bin\EntityFramework.SqlServer.xml
+C:\visualstudio\OVI Quiz\GeekQuiz\bin\Microsoft.AspNet.Identity.Core.xml
+C:\visualstudio\OVI Quiz\GeekQuiz\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\visualstudio\OVI Quiz\GeekQuiz\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\visualstudio\OVI Quiz\GeekQuiz\bin\Microsoft.Owin.xml
+C:\visualstudio\OVI Quiz\GeekQuiz\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\visualstudio\OVI Quiz\GeekQuiz\bin\Microsoft.Owin.Security.xml
+C:\visualstudio\OVI Quiz\GeekQuiz\bin\Microsoft.Owin.Security.Facebook.xml
+C:\visualstudio\OVI Quiz\GeekQuiz\bin\Microsoft.Owin.Security.Cookies.xml
+C:\visualstudio\OVI Quiz\GeekQuiz\bin\Microsoft.Owin.Security.OAuth.xml
+C:\visualstudio\OVI Quiz\GeekQuiz\bin\Microsoft.Owin.Security.Google.xml
+C:\visualstudio\OVI Quiz\GeekQuiz\bin\Microsoft.Owin.Security.Twitter.xml
+C:\visualstudio\OVI Quiz\GeekQuiz\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\visualstudio\OVI Quiz\GeekQuiz\obj\Debug\GeekQuiz.csproj.CoreCompileInputs.cache
+C:\visualstudio\OVI Quiz\GeekQuiz\obj\Debug\GeekQuiz.dll
+C:\visualstudio\OVI Quiz\GeekQuiz\obj\Debug\GeekQuiz.pdb
+C:\visualstudio\OVI Quiz\GeekQuiz\obj\Debug\GeekQuiz.csprojResolveAssemblyReference.cache

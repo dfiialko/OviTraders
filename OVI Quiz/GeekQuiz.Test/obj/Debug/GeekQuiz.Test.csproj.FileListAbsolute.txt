@@ -1,0 +1,66 @@
+C:\Users\Sid\Desktop\VS Project\DEMO-GeekQuiz-Web-API-backend-master\source\end\GeekQuiz.Test\bin\Debug\GeekQuiz.Test.dll
+C:\Users\Sid\Desktop\VS Project\DEMO-GeekQuiz-Web-API-backend-master\source\end\GeekQuiz.Test\bin\Debug\GeekQuiz.Test.pdb
+C:\Users\Sid\Desktop\VS Project\DEMO-GeekQuiz-Web-API-backend-master\source\end\GeekQuiz.Test\obj\Debug\GeekQuiz.Test.csprojResolveAssemblyReference.cache
+C:\Users\Sid\Desktop\VS Project\DEMO-GeekQuiz-Web-API-backend-master\source\end\GeekQuiz.Test\obj\Debug\GeekQuiz.Test.csproj.CoreCompileInputs.cache
+C:\Users\Sid\Desktop\VS Project\DEMO-GeekQuiz-Web-API-backend-master\source\end\GeekQuiz.Test\obj\Debug\GeekQuiz.Test.dll
+C:\Users\Sid\Desktop\VS Project\DEMO-GeekQuiz-Web-API-backend-master\source\end\GeekQuiz.Test\obj\Debug\GeekQuiz.Test.pdb
+C:\Users\Sid\Desktop\VS Project\DEMO-GeekQuiz-Web-API-backend-master\source\OVI Quiz\GeekQuiz.Test\bin\Debug\GeekQuiz.Test.dll
+C:\Users\Sid\Desktop\VS Project\DEMO-GeekQuiz-Web-API-backend-master\source\OVI Quiz\GeekQuiz.Test\bin\Debug\GeekQuiz.Test.pdb
+C:\Users\Sid\Desktop\VS Project\DEMO-GeekQuiz-Web-API-backend-master\source\OVI Quiz\GeekQuiz.Test\obj\Debug\GeekQuiz.Test.csprojResolveAssemblyReference.cache
+C:\Users\Sid\Desktop\VS Project\DEMO-GeekQuiz-Web-API-backend-master\source\OVI Quiz\GeekQuiz.Test\obj\Debug\GeekQuiz.Test.csproj.CoreCompileInputs.cache
+C:\Users\Sid\Desktop\VS Project\DEMO-GeekQuiz-Web-API-backend-master\source\OVI Quiz\GeekQuiz.Test\obj\Debug\GeekQuiz.Test.dll
+C:\Users\Sid\Desktop\VS Project\DEMO-GeekQuiz-Web-API-backend-master\source\OVI Quiz\GeekQuiz.Test\obj\Debug\GeekQuiz.Test.pdb
+C:\visualstudio\OVI Quiz\GeekQuiz.Test\obj\Debug\GeekQuiz.Test.csprojResolveAssemblyReference.cache
+C:\visualstudio\OVI Quiz\GeekQuiz.Test\obj\Debug\GeekQuiz.Test.csproj.CoreCompileInputs.cache
+C:\visualstudio\OVI Quiz\GeekQuiz.Test\obj\Debug\GeekQuiz.Test.dll
+C:\visualstudio\OVI Quiz\GeekQuiz.Test\obj\Debug\GeekQuiz.Test.pdb
+C:\visualstudio\OVI Quiz\GeekQuiz.Test\bin\Debug\GeekQuiz.Test.dll.config
+C:\visualstudio\OVI Quiz\GeekQuiz.Test\bin\Debug\GeekQuiz.Test.dll
+C:\visualstudio\OVI Quiz\GeekQuiz.Test\bin\Debug\GeekQuiz.Test.pdb
+C:\visualstudio\OVI Quiz\GeekQuiz.Test\bin\Debug\GeekQuiz.dll
+C:\visualstudio\OVI Quiz\GeekQuiz.Test\bin\Debug\Newtonsoft.Json.dll
+C:\visualstudio\OVI Quiz\GeekQuiz.Test\bin\Debug\nunit.framework.dll
+C:\visualstudio\OVI Quiz\GeekQuiz.Test\bin\Debug\System.Net.Http.Formatting.dll
+C:\visualstudio\OVI Quiz\GeekQuiz.Test\bin\Debug\System.Web.Http.dll
+C:\visualstudio\OVI Quiz\GeekQuiz.Test\bin\Debug\Microsoft.Owin.dll
+C:\visualstudio\OVI Quiz\GeekQuiz.Test\bin\Debug\System.Web.Optimization.dll
+C:\visualstudio\OVI Quiz\GeekQuiz.Test\bin\Debug\System.Web.Mvc.dll
+C:\visualstudio\OVI Quiz\GeekQuiz.Test\bin\Debug\Owin.dll
+C:\visualstudio\OVI Quiz\GeekQuiz.Test\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\visualstudio\OVI Quiz\GeekQuiz.Test\bin\Debug\EntityFramework.dll
+C:\visualstudio\OVI Quiz\GeekQuiz.Test\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\visualstudio\OVI Quiz\GeekQuiz.Test\bin\Debug\Microsoft.AspNet.Identity.Owin.dll
+C:\visualstudio\OVI Quiz\GeekQuiz.Test\bin\Debug\Microsoft.Owin.Security.Cookies.dll
+C:\visualstudio\OVI Quiz\GeekQuiz.Test\bin\Debug\Microsoft.Owin.Security.dll
+C:\visualstudio\OVI Quiz\GeekQuiz.Test\bin\Debug\System.Web.Http.WebHost.dll
+C:\visualstudio\OVI Quiz\GeekQuiz.Test\bin\Debug\Microsoft.Owin.Host.SystemWeb.dll
+C:\visualstudio\OVI Quiz\GeekQuiz.Test\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\visualstudio\OVI Quiz\GeekQuiz.Test\bin\Debug\System.Web.Razor.dll
+C:\visualstudio\OVI Quiz\GeekQuiz.Test\bin\Debug\System.Web.WebPages.Razor.dll
+C:\visualstudio\OVI Quiz\GeekQuiz.Test\bin\Debug\System.Web.WebPages.dll
+C:\visualstudio\OVI Quiz\GeekQuiz.Test\bin\Debug\Microsoft.Owin.Security.OAuth.dll
+C:\visualstudio\OVI Quiz\GeekQuiz.Test\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\visualstudio\OVI Quiz\GeekQuiz.Test\bin\Debug\GeekQuiz.pdb
+C:\visualstudio\OVI Quiz\GeekQuiz.Test\bin\Debug\GeekQuiz.dll.config
+C:\visualstudio\OVI Quiz\GeekQuiz.Test\bin\Debug\Newtonsoft.Json.xml
+C:\visualstudio\OVI Quiz\GeekQuiz.Test\bin\Debug\nunit.framework.xml
+C:\visualstudio\OVI Quiz\GeekQuiz.Test\bin\Debug\System.Net.Http.Formatting.xml
+C:\visualstudio\OVI Quiz\GeekQuiz.Test\bin\Debug\System.Web.Http.xml
+C:\visualstudio\OVI Quiz\GeekQuiz.Test\bin\Debug\Microsoft.Owin.xml
+C:\visualstudio\OVI Quiz\GeekQuiz.Test\bin\Debug\System.Web.Optimization.xml
+C:\visualstudio\OVI Quiz\GeekQuiz.Test\bin\Debug\System.Web.Mvc.xml
+C:\visualstudio\OVI Quiz\GeekQuiz.Test\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\visualstudio\OVI Quiz\GeekQuiz.Test\bin\Debug\EntityFramework.xml
+C:\visualstudio\OVI Quiz\GeekQuiz.Test\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\visualstudio\OVI Quiz\GeekQuiz.Test\bin\Debug\Microsoft.AspNet.Identity.Owin.xml
+C:\visualstudio\OVI Quiz\GeekQuiz.Test\bin\Debug\Microsoft.Owin.Security.Cookies.xml
+C:\visualstudio\OVI Quiz\GeekQuiz.Test\bin\Debug\Microsoft.Owin.Security.xml
+C:\visualstudio\OVI Quiz\GeekQuiz.Test\bin\Debug\System.Web.Http.WebHost.xml
+C:\visualstudio\OVI Quiz\GeekQuiz.Test\bin\Debug\Microsoft.Owin.Host.SystemWeb.xml
+C:\visualstudio\OVI Quiz\GeekQuiz.Test\bin\Debug\System.Web.Razor.xml
+C:\visualstudio\OVI Quiz\GeekQuiz.Test\bin\Debug\System.Web.WebPages.Razor.xml
+C:\visualstudio\OVI Quiz\GeekQuiz.Test\bin\Debug\System.Web.WebPages.xml
+C:\visualstudio\OVI Quiz\GeekQuiz.Test\bin\Debug\Microsoft.Owin.Security.OAuth.xml
+C:\visualstudio\OVI Quiz\GeekQuiz.Test\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\visualstudio\OVI Quiz\GeekQuiz.Test\bin\Debug\EntityFramework.SqlServer.dll
+C:\visualstudio\OVI Quiz\GeekQuiz.Test\bin\Debug\EntityFramework.SqlServer.xml
